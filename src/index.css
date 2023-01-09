@@ -7,3 +7,6 @@
 .App li {
   display: list-item;
 }
+.weather-container {
+  font-size: 40px;
+}
